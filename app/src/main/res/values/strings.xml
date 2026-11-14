@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">VoxType</string>
+    <string name="model_badge_label">Gemini 3.5 Transcribe Live</string>
+    <string name="smart_punctuation_on">Smart Punctuation ON</string>
+    <string name="smart_punctuation_sheet_title">Smart Punctuation Always On</string>
+    <string name="smart_punctuation_sheet_subtitle">Applied automatically to every live utterance by Gemini 3.5 Transcribe Live and refined on commit.</string>
+    <string name="editor_placeholder">Tap the microphone and start speaking naturally.\n\nSmart punctuation, capitalization, and self-corrections are applied live as you talk.</string>
+    <string name="status_ready">Ready to dictate</string>
+    <string name="status_connecting">Connecting to Gemini Live…</string>
+    <string name="status_listening">Listening • Live</string>
+    <string name="status_finalizing">Finalizing punctuation…</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_copied">Copied to clipboard</string>
+    <string name="action_share">Share</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_save_snippet">Save</string>
+    <string name="action_newline">New Line</string>
+    <string name="mic_permission_title">Microphone access required</string>
+    <string name="mic_permission_body">VoxType streams your voice directly to Gemini 3.5 Transcribe Live for real-time dictation with smart punctuation.</string>
+    <string name="mic_permission_grant">Allow Microphone</string>
+    <string name="mic_permission_settings">Open Settings</string>
+    <string name="settings_title">Dictation Studio</string>
+    <string name="history_title">Session Snippets</string>
+    <string name="history_empty">No saved snippets yet. Dictate something and tap Save to keep it handy during your session.</string>
+    <string name="build_roadmap_title">Build 1 • In-App Voice Typing</string>
+    <string name="build_roadmap_body">Next build will introduce the floating bubble accessibility service to dictate directly inside WhatsApp, Instagram, TikTok, and any text field.</string>
+    <string name="cd_mic_start">Start voice typing</string>
+    <string name="cd_mic_stop">Stop voice typing</string>
+    <string name="cd_open_settings">Dictation studio settings</string>
+    <string name="cd_open_history">Session snippets</string>
+    <string name="cd_language_picker">Select speech language</string>
+</resources>

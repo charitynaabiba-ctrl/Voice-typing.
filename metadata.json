@@ -1,0 +1,6 @@
+{
+  "name": "VoxType",
+  "description": "Live voice typing app powered by Gemini with always-on smart punctuation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
